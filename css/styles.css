@@ -1,4 +1,5 @@
-.img-slider {
+.carousel-inner>.carousel-item>img {
 
-    filter: brightness(50%);
+    width: 1320px;
+    height: 700px;
 }
